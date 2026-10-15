@@ -1,0 +1,11 @@
+{
+   "transactionId" : "TXN-123456789",
+   "status" : "AUTHORIZED",
+   "currency" : "EUR",
+   "amount" : 100,
+   "timestamp" : "2026-06-04T12:00:00Z",
+   "customerPaymentMethod" : {
+      "customerId" : "12345",
+      "paymentMethod" : "CARD"
+   }
+}
