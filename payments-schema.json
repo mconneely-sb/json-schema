@@ -1,5 +1,4 @@
 {
-   "transactionId" : "TXN-123456789",
    "status" : "AUTHORIZED",
    "currency" : "EUR",
    "amount" : 100,
